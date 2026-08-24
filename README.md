@@ -7,4 +7,4 @@ public class HelloWorld {
     }
 }
 print hello world
-body print this is
+body print this is sample
